@@ -1,0 +1,21 @@
+{
+  "name": "empty_typescript_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/main.js",
+  "scripts": {
+    "buildWatch": "tsc --watch",
+    "build": "tsc",
+    "start": "node .",
+    "devStart": "nodemon --ignore config .",
+    "dev": "concurrently \"npm run buildWatch\" \"npm run devStart\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "concurrently": "^7.1.0",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
+  }
+}
