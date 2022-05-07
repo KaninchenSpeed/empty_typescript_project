@@ -8,7 +8,7 @@
 
 ### with Git installed
 
-- git clone https://github.com/KaninchenSpeed/empty_typescript_project.git
+- run `git clone https://github.com/KaninchenSpeed/empty_typescript_project.git` to clone the project
 - rename the directory to your project name
 - run `npm i` in the project directory to install all dependencies
 
