@@ -6,8 +6,8 @@
   "scripts": {
     "buildWatch": "tsc --watch",
     "build": "tsc",
-    "start": "node .",
-    "devStart": "nodemon --ignore config .",
+    "start": "node --enable-source-maps .",
+    "devStart": "nodemon --ignore config --enable-source-maps .",
     "dev": "concurrently \"npm run buildWatch\" \"npm run devStart\""
   },
   "keywords": [],
