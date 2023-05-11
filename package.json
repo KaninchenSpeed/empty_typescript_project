@@ -14,8 +14,8 @@
   "author": "",
   "license": "",
   "devDependencies": {
-    "concurrently": "^7.6.0",
-    "nodemon": "^2.0.22",
-    "typescript": "^4.9.5"
+    "concurrently": "^7.1.0",
+    "nodemon": "^2.0.16",
+    "typescript": "^4.6.4"
   }
 }
