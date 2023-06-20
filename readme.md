@@ -15,7 +15,7 @@
 
 ### without git
 
-- click on the green code button on the top right of the page
+- click on the gray code button (next to the green button) on the top right of the page
 - click on download zip
 - extract the zip where you want the project to be
 - rename the directory to your project name
