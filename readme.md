@@ -31,3 +31,6 @@ Put config in the directory called `config` as it is ignored by the auto restart
 - run `npm run dev` to start your application in dev mode (with auto restart on file save)
 - run `npm run build` to compile your project to plain js (found in the dist directory)
 - run `npm run start` to run node on the compiled js files
+
+#### License
+This template is licensed under [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
